@@ -2634,6 +2634,11 @@ use-latest@^1.2.1:
   dependencies:
     use-isomorphic-layout-effect "^1.1.1"
 
+vite-plugin-radar@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/vite-plugin-radar/-/vite-plugin-radar-0.5.0.tgz#42b97a21ef68dac15ce7e70590f61d2308ed28ad"
+  integrity sha512-3QiXReftTGeDd9o6o+z4q+bTEb1xJr9O5IE/YbcrTcZtaiDwQuZkXb0v3XwhFVcODd2HqEcwLYTmz0n+xqrspQ==
+
 vite@^3.1.0:
   version "3.1.8"
   resolved "https://registry.yarnpkg.com/vite/-/vite-3.1.8.tgz#fa29144167d19b773baffd65b3972ea4c12359c9"
